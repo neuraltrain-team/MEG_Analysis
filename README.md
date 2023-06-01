@@ -1,10 +1,5 @@
 # MEG_Analysis
 Collection of Python and Matlab Scripts to run the MEG data analysis for Mars2
-
-# MEG Data Analysis Pipeline
-
-All scripts are on GitHub under: https://github.com/neuraltrain-team/MEG_Analysis
-
 Pipeline requires:
 
 - MNE Python: https://mne.tools/stable/index.html
@@ -42,5 +37,5 @@ Pipeline requires:
     1. Run **CamCan_TFR_vc.m** to compute TFR
     2. Stats and Plotting in the same script
 6. Compute Connectivity in Source Space
-    1. Run CamCan_Connectivity.m to compute Functional Connectivity
+    1. Run **CamCan_Connectivity.m** to compute Functional Connectivity
     2. Stats and Plotting in the same script
